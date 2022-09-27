@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.c">
+    <ClCompile Include="0x06_101-print_number.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

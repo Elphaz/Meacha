@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-main()
+void print_number(int n);
 {
 	int any_integer =1005, n_digits = 0, digits = 0, temp;
 	temp = any_integer;
